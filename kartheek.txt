@@ -1,3 +1,5 @@
 This is a sample git file
 Created by Kartheek 
 Inserting a new line using vi editor..
+
+This is a new line for next commit..
