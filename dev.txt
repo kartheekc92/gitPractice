@@ -5,3 +5,4 @@ Inserting a new line using vi editor..
 This is a new line for next commit..
 
 This is a new line on dev branch
+This line is being added to test conflicts.. 
